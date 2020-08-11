@@ -2,7 +2,7 @@ ljs.addAliases({
     jQuery:'https://raw.githubusercontent.com/jgillespie/CorpScript-Plus/master/dist/jquery.min.js',
     copy:'https://raw.githubusercontent.com/jgillespie/CorpScript-Plus/master/dist/clipboard.min.js',
     juicer:'https://raw.githubusercontent.com/jgillespie/CorpScript-Plus/master/dist/juicer-min.js',
-    timeago:'https://cdnjs.cloudflare.com/ajax/libs/timeago.js/2.0.3/timeago.min.js',
+    timeago:'https://raw.githubusercontent.com/jgillespie/CorpScript-Plus/master/dist/timeago.min.js',
     iframe:'https://raw.githubusercontent.com/jgillespie/CorpScript-Plus/master/dist/iframe-sandbox.js',
     vue:'https://raw.githubusercontent.com/jgillespie/CorpScript-Plus/master/dist/vue.js',
     psl:'https://raw.githubusercontent.com/jgillespie/CorpScript-Plus/master/dist/psl.min.js',
